@@ -3,7 +3,7 @@ import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        //Задание 3
+        ///Задание 3
         //Задача 1
         byte aq = 100;
         System.out.println("Значение переменной " + "aq" + " с типом byte равно " + aq);
